@@ -69,22 +69,22 @@ layers:
 combos:
 - p: [6, 7]
   k: '{'
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [7, 8]
   k: '}'
-  l: [ColemakDH, NumSym]
-- p: [5, 6]
+  l: [ColemakDH]
+- p: [15, 16]
   k: '['
-  l: [ColemakDH, NumSym]
-- p: [8, 9]
+  l: [ColemakDH]
+- p: [18, 19]
   k: ']'
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [16, 17]
   k: (
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [17, 18]
   k: )
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [11, 12]
   k: '~'
   l: [ColemakDH]
@@ -105,10 +105,10 @@ combos:
   l: [ColemakDH]
 - p: [26, 27]
   k: _
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [27, 28]
   k: '='
-  l: [ColemakDH, NumSym]
+  l: [ColemakDH]
 - p: [10, 11]
   k: ←
   l: [ColemakDH]
